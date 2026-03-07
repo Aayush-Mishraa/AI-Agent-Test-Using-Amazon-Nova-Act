@@ -16,7 +16,6 @@ Traditional UI automation frameworks like Selenium, Playwright, and Cypress are 
 
 In short, traditional tools are deterministic and robust, but often expensive to maintain over time for fast-moving UI products.
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/bodymovin/5.5.0/lottie.js"></script>
 ## 3. Why AI Driven Automation
 AI-driven automation shifts from selector-first scripts to intent-first instructions.
 
