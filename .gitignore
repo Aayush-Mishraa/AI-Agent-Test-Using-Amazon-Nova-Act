@@ -1,0 +1,22 @@
+# Credentials — NEVER commit these
+.env
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Nova Act logs / traces
+nova_act_logs/
+*.html
+
+# IDE
+.vscode/
+.idea/
